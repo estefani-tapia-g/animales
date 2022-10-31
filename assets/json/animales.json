@@ -1,7 +1,7 @@
 {
   "animales": [
     {
-      "name": "León",
+      "name": "Leon",
       "imagen": "Leon.png",
       "sonido": "Rugido.mp3"
     },
